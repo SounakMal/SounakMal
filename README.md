@@ -1,3 +1,13 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="SounakMal's GitHub profile" src="dark_mode.svg" />
+</picture>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sounak Mal!" />
+</h1>
+
 # 💫 About Me:
 🔭 I’m currently working on FrontEnd<br>👯 I’m looking to collaborate on Projects<br>🤝 I’m looking for help with frontend<br>🌱 I’m currently learning python
 
